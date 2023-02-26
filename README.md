@@ -1,1 +1,2 @@
 # ViT-CNN-Num-Classification
+MNISTのデータを用いて、ViTとCNNそれぞれで分類タスク用のコードを作成する
